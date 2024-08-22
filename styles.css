@@ -1,0 +1,33 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(225, 220, 203);
+}
+
+li, p, a {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+}
+
+h1, h2, div {
+    background-color: rgb(69, 67, 63);
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(202, 226, 180);
+    font-size: 50px;
+}
+
+p.regular, ul, ol, li, a {
+    background-color: rgb(243, 238, 222);
+}
+
+p.regular.note {
+    color: rgb(202, 226, 180);
+    background-color: rgb(76, 113, 67)
+}
+
+.optional {
+    color: rgb(161, 161, 161);
+}
